@@ -46,12 +46,14 @@ tap homebrew/versions
 
 tap caskroom/cask
 cask appcleaner
+cask cheatsheet
 cask discord
 cask google-chrome
 cask phpstorm
 cask sequel-pro
 cask slack
 cask spectacle
+cask spotify
 cask teamsql
 cask visual-studio-code
 
