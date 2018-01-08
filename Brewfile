@@ -55,6 +55,7 @@ cask slack
 cask spectacle
 cask spotify
 cask teamsql
+cask teamviewer
 cask visual-studio-code
 
 tap rcmdnk/file
